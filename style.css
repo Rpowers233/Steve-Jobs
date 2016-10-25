@@ -1,0 +1,17 @@
+body {
+	background-color:#00ffff;
+	color:#000000 ;
+}
+
+}
+p.second {
+width:100%;
+color:purple;
+font-family:"Comic Sans MS";
+font-size: 22px;
+text-align: center;//*CSS Comment you could use right leftor center in this tag*/
+}
+img{
+display: block;
+margin-left:auto;
+margin-right: auto;
